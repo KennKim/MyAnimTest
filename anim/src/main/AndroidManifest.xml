@@ -1,2 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tkip.anim" />
+    package="com.tkip.anim">
+
+    <application>
+        <activity android:name=".AnimActi"></activity>
+    </application>
+
+</manifest>
